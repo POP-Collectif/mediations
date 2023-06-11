@@ -1,0 +1,33 @@
+Title: Le numérique est partout… et si vous inventiez la suite avec nous ?
+
+----
+
+Cover: - file://9HXiyB71j2IpwuJQ
+
+----
+
+Thumbnail-cover: - file://CpyiCzrXArSWkm6M
+
+----
+
+Date: 2022-11-28
+
+----
+
+Primarycolor: #252D80
+
+----
+
+Secondarycolor: #E75114
+
+----
+
+Hat: École, santé, mobilité, insertion, solidarité, TPE… Aujourd’hui, le numérique est partout et nous avons tou·te·s besoin d’être accompagné·e·s !
+
+----
+
+Highlighted-articles: - page://wjKW2UYp4ggLClFd
+
+----
+
+Uuid: N5NpGM9RscqPDCqT

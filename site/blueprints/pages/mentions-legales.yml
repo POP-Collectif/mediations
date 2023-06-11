@@ -1,0 +1,128 @@
+# Each page blueprint must have a title, the title may be different from the file name
+# This default blueprint is used to display a page in the Panel whenever a custom page blueprint is missing.
+title: Mentions légales
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📝
+
+# Custom descriptions of page statuses depending on use case
+# More about page statuses: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
+options:
+  changeStatus: false
+
+tabs:
+  one:
+# Content area width 2 columns and 3 sections: fields, pages, and files
+# Columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+    columns:
+      # Fields section: https://getkirby.com/docs/reference/panel/sections/fields
+      ones:
+        width: 2/3
+        sections:
+          hero:
+            type: fields
+            fields:
+              cover:
+                extends: fields/cover
+                label: Image de couverture
+          content:
+            extends: sections/layout
+        # type: fields
+        # fields:
+          # layout:
+          #   label: Contenu de la page
+          #   type: layout
+          #   layouts:
+          #     - "1/1"
+          #     - "1/2, 1/2"
+          #   fieldsets:
+          #     - heading
+          #     - text
+          #     - image
+          # dictionnary:
+          #   label: Variables de page
+          #   type: structure
+          #   fields:
+          #     key:
+          #       label: Clé
+          #       type: text
+          #     value:
+          #       label: Valeur
+          #       type: text
+      two:
+        width: 1/3
+        sections:
+          pp:
+            type: fields
+            fields:
+              isPhysical:
+                type: toggle
+                text:
+                  - 🤵 Personne physique
+                  - 🏢 Personne morale
+              #       Nom et prénom,
+              physical_name:
+                label: Nom
+                type: text
+                when:
+                  isPhysical: false
+        # Adresse du domicile,
+              physical_address:
+                label: Adresse
+                type: writer
+                when:
+                  isPhysical: false
+        # Numéro de téléphone et adresse mail
+              physical_mail:
+                label: Adresse mail de contact
+                type: email
+                when:
+                  isPhysical: false
+              telephone:
+                label: Telephone
+                type: tel
+                help: \{\{telephone}}
+                when:
+                  isPhysical: false
+              social_denomination:
+                label: Dénomination sociale
+                type: text
+                help: \{\{social_denomination}}
+                when:
+                  isPhysical: true
+              entreprise_name:
+                label: Nom de l'entreprise
+                help: \{\{entreprise_name}}
+                type: text
+                when:
+                  isPhysical: true
+              rcs:
+                label: N° RCS
+                type: text
+                help: \{\{rcs}}
+                when:
+                  isPhysical: true
+              siret:
+                label: SIRET
+                type: text
+                help: \{\{siret}}
+                when:
+                  isPhysical: true
+              forme_juriqique:
+                label: Forme juridique
+                type: text
+                help: \{\{forme_juridique}}
+                when:
+                  isPhysical: true
+              capital:
+                label: Capital social
+                type: number
+                help: \{\{capital}}
+                when:
+                  isPhysical: true
+              entreprise_address:
+                label: Adresse du siège social
+                type: writer
+                help: \{\{entreprise_address}}
+                when:
+                  isPhysical: false

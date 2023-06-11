@@ -1,0 +1,53 @@
+Title: Puzzle de la médiation numérique
+
+----
+
+Cover: - file://IsB5pBuZX8bluk2D
+
+----
+
+Hat: Et si on illustrait l’écosystème de la médiation numérique au travers d’un jeu de société ? C’est l’objectif des Assembleurs avec le "puzzle de la médiation numérique".
+
+----
+
+Layout: [{"attrs":{"visual":[],"visual_color":"#252d80bf","visual_width":33,"visual_position":"bottom-left"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Et si on illustrait l\u2019\u00e9cosyst\u00e8me de la m\u00e9diation num\u00e9rique au travers d\u2019un jeu de soci\u00e9t\u00e9 ? C\u2019est l\u2019objectif des Assembleurs avec le \u00ab\u00a0puzzle de la m\u00e9diation num\u00e9rique\u201d. Ce qu\u2019on en retient : la m\u00e9diation num\u00e9rique, c\u2019est tout un \u00e9cosyst\u00e8me ! Elle se d\u00e9veloppe dans des lieux vari\u00e9s, avec des acteurs engag\u00e9s, et des solutions innovantes !<\/strong><\/p>"},"id":"b64a1b43-3a66-4e87-b2d6-55e939bf0d40","isHidden":false,"type":"text"}],"id":"348ff36c-95d2-4ea2-87a2-91efb1eb0fa8","width":"1\/1"}],"id":"fc4fce98-a8fe-494e-995a-f169ff78a1d6"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"text":"<p>Le Puzzle de la m\u00e9diation num\u00e9rique est une ressource d\u00e9velopp\u00e9e dans le cadre de la\u00a0<u><a href=\"https:\/\/les.assembleurs.co\/former\/fabrique-a-communs-pedagogiques-des-assembleurs\/\" rel=\"noopener noreferrer\">Fabrique \u00e0 Communs P\u00e9dagogiques<\/a><\/u>\u00a0des Assembleurs. L\u2019objectif de cette Fabrique est de co-construire avec des m\u00e9diateurs num\u00e9riques des ressources p\u00e9dagogiques (sous licence\u00a0<u><a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/deed.fr\" rel=\"noopener noreferrer\">CC-BY SA<\/a><\/u>) qui vous permettent d\u2019accompagner la mont\u00e9e en comp\u00e9tences des acteurs de l\u2019inclusion num\u00e9rique sur votre territoire.<\/p>"},"id":"68cd13a6-147f-48c5-a5d7-079e0ecacf0a","isHidden":false,"type":"text"}],"id":"f60379df-eda6-4b99-bd07-5a9ebb6016dc","width":"1\/2"},{"blocks":[{"content":{"text":"<p>La Fabrique \u00e0 Communs des Assembleurs s\u2019appuie sur un r\u00e9seau de m\u00e9diateurs num\u00e9riques contributeurs.Si vous souhaitez rejoindre ce r\u00e9seau et \u00eatre tenu inform\u00e9 des prochaines publications de ressources p\u00e9dagogiques en avant-premi\u00e8re, il vous suffit de compl\u00e9ter\u00a0<u><a href=\"https:\/\/forms.gle\/7m8Cmwbw1XgWT8Lh7\" rel=\"noopener noreferrer\">notre formulaire en ligne<\/a><\/u>\u00a0\ud83d\ude42<\/p>"},"id":"43802dc7-92e0-4c0f-a4dd-e91d7737a73a","isHidden":false,"type":"text"}],"id":"ecb64e5c-ef4a-4fc5-a1f0-8841e5d96501","width":"1\/2"}],"id":"6a41c3e3-f287-48e2-bfbb-58ec445ca89b"},{"attrs":{"visual":["file:\/\/iaoYvbIhNd94aFBc"],"visual_color":"#e7511526","visual_width":20,"visual_position":"bottom-left"},"columns":[{"blocks":[{"content":{"level":"h2","text":"L\u2019atelier : le Puzzle de la m\u00e9diation num\u00e9rique"},"id":"9ad254d1-93e8-4e22-b9b2-26ab84731db9","isHidden":false,"type":"heading"}],"id":"e23d824e-90c0-4a5e-9b61-e28d7b5671fb","width":"1\/1"}],"id":"5e32555f-bfa2-4b24-82c5-e6f37b82cf39"},{"attrs":{"visual":["file:\/\/x0Eszp6nhmEIe0aI"],"visual_color":"#e75114e6","visual_width":20,"visual_position":"bottom-right"},"columns":[{"blocks":[{"content":{"text":"<p>Cet atelier permet de pr\u00e9senter l\u2019\u00e9cosyst\u00e8me de l\u2019inclusion num\u00e9rique et de la m\u00e9diation num\u00e9rique \u00e0 des acteurs n\u00e9ophytes sur ces sujets, en leur apportant une vue d\u2019ensemble des diff\u00e9rents lieux, acteurs, et solutions ou dispositifs existants.<\/p><p>Il est disponible en libre t\u00e9l\u00e9chargement ci-dessous.\u00a0Vous avez une question, une id\u00e9e, une remarque ou vous souhaitez \u00eatre accompagn\u00e9 pour animer cet atelier au sein de votre structure ?<\/p><p>N\u2019h\u00e9sitez pas \u00e0 nous faire un coucou sur l\u2019adresse :\u00a0<u><a href=\"mailto:bonjour@assembleurs.co\">bonjour@assembleurs.co<\/a><\/u>\u00a0!<\/p>"},"id":"a119c436-311a-4685-b9b5-04fe14cf7531","isHidden":false,"type":"text"}],"id":"8f87ee82-27a6-4d9d-a85b-c70a2a19b3da","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/DwxtEl4D26wRBTNK"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"2ece1480-8ddf-498c-bb9c-94d65ff5dd92","isHidden":false,"type":"image"}],"id":"97aa6e42-b7f2-49ee-9bfb-c998d8282b2f","width":"1\/2"}],"id":"dbdcbcce-7635-4ed4-82d4-aee45cd6ce38"}]
+
+----
+
+Dictionnary: 
+
+----
+
+Date: 2022-10-10
+
+----
+
+Partners: - file://zWEILYOm5SL5zSfo
+
+----
+
+Tags: Atelier, Communs numériques
+
+----
+
+Readingtime: 10
+
+----
+
+Visual: - file://x0Eszp6nhmEIe0aI
+
+----
+
+Visual-color: #253aa74d
+
+----
+
+Visual-width: 41
+
+----
+
+Visual-position: top-right
+
+----
+
+Uuid: mlCab7hH4nKAMWGL

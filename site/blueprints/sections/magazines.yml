@@ -1,0 +1,17 @@
+# This section blueprint defines a pages section that can be reused across multiple blueprints
+# or multiple times within the same blueprint, see `/site/blueprints/pages/photography.yml`  and `/site/blueprints/site.yml`
+# Sections can have different layouts and display additional information or a preview image
+# More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
+type: pages
+label: Magazines
+parent: kirby.page("magazines")
+size: small
+info: "{{ page.children.count }} article(s)"
+layout: cards
+sortBy: date desc
+template: magazine
+empty: Pas encore de magazines..!
+image:
+  query: page.cover
+  cover: true
+  ratio: 5/4

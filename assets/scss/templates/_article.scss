@@ -1,0 +1,36 @@
+.article-content{
+  background: white;
+
+  & header{
+    font-family: $ff-bst; color: var(--primary-color);
+  }
+}
+
+
+.article-reading-time, .article-date{
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+
+  & svg{ width: 28px; height: 28px; fill: currentColor; }
+}
+
+.article-thumbnail-title{
+  font-size: 2em;
+
+  @include md{ font-size: 3em; }
+  @include xl{ font-size: 4em; }
+}
+
+article > footer{
+  margin-top: 3em;
+}
+
+// ONLY EFFECTIVE IN ARTICLE PAGES
+body.article{
+
+  & .tags-container{ grid-column: span 2; }
+}
+
+.prev-link{ text-align: left;}
+.next-link{ text-align: right;}

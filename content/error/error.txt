@@ -1,0 +1,17 @@
+Title: Erreur
+
+----
+
+Heading: Oups !
+
+----
+
+Subheading: La page que vous avez demandée n'existe pas !
+
+----
+
+Buttontext: Revenir à l'accueil
+
+----
+
+Uuid: ij2chYWyputVDcf3

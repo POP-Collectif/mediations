@@ -1,0 +1,36 @@
+Title: Et si le numérique rendait les territoires plus verts ?
+
+----
+
+Cover: - file://UjNWGSB4GxZ2S7c1
+
+----
+
+Thumbnail-cover: - file://sKSyETWina7ObREq
+
+----
+
+Date: 2022-01-01
+
+----
+
+Primarycolor: #217d27
+
+----
+
+Secondarycolor: #e75114
+
+----
+
+Hat: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+----
+
+Highlighted-articles:
+
+- page://mlCab7hH4nKAMWGL
+- page://OpozLkRbjeCFe0Sx
+
+----
+
+Uuid: L9WwrAs6YwYnVA2b

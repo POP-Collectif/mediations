@@ -1,0 +1,150 @@
+:root{
+  --page-header-margin-bottom: 120px;
+}
+
+.page-header{
+  position: relative;
+  display: block;
+
+  // min-height: 550px;
+
+  margin-bottom: calc(-1 * var(--page-header-margin-bottom));
+
+
+  @media screen and (min-width: 992px){
+
+    // min-height: 750px;
+  }
+
+  & + .page-section{
+    background: white;
+  }
+}
+
+
+
+.page-header-text{
+  // @extend .mx-auto;
+
+  color: white;
+  margin: 3rem 1.5rem;
+
+  @media screen and (min-width: 992px){
+    // margin-left: 6rem;
+  }
+
+  & .hat{
+    font-weight: 300;
+    font-size: large;
+    line-height: inherit;
+  }
+
+  & .page-title{
+    color: white;
+    // font-size: 3rem;
+    max-width: 42rem;
+    margin-bottom: 1rem;
+
+    // @media screen and (min-width: 992px){
+    //   // font-size: 4rem;
+    //   max-width: 52rem;
+    // }
+  }
+
+  & .text{
+    font-family: sans-serif;
+  }
+}
+
+
+// .page-header .blob{
+//   position: absolute;
+//
+//   .article &{display: none;}
+//
+//   height: 100%;
+//   width: auto;
+//   transition: top .6s cubic-bezier(0.46, 0.03, 0.52, 0.96), left .6s cubic-bezier(0.46, 0.03, 0.52, 0.96);
+//   z-index: -1;
+//   left:0%;
+//   top: 0%;
+//
+//   -webkit-transform: translate(-50%, -50%);
+//   transform: translate(-50%, -50%);
+//
+//   filter: brightness(115%);
+//
+//
+//   & path{
+//     fill: var(--page-primary-color);
+//   }
+// }
+
+
+.page-header-background{
+
+  position: relative;
+  z-index: -1;
+
+  min-height: 500px;
+  width: 100%;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+
+  .magazine &{
+    // left: -200%;
+    // width: 800%;
+    //
+    // @include md{
+    //   left: -50%;
+    //   width: 200%;
+    // }
+  }
+
+  .article &{
+    // left: 0;
+    // width: 100%;
+  }
+
+  color: var(--page-primary-color);
+
+  & svg{
+    width: 100%;
+    height: 100%;
+  }
+}
+
+
+.page-top{
+
+  padding: 1.5rem var(--page-section-padding-x);
+  & > span{
+    font-size: 64px;
+    line-height: 1;
+
+    & a{
+      text-decoration: none;
+    }
+  }
+
+  & > div{
+    transform: translateX(7px);
+    display: inline-block;
+  }
+
+  @include md{
+
+    padding: 1.5rem var(--page-section-padding-x);
+    & > span{
+      font-size: 128px;
+      line-height: 150px;
+    }
+
+    & > div{
+      transform: translateX(7px);
+      display: inline-block;
+    }
+  }
+}

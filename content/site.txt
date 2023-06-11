@@ -1,0 +1,25 @@
+Title: Médiation(s)
+
+----
+
+Favicon: - file://mbEKsck1h03SQxT7
+
+----
+
+Hat: Médiations.media, les actualités de la médiation numérique en France
+
+----
+
+Backgroundcolor: #ffffff
+
+----
+
+Textcolor: #111111
+
+----
+
+Primarycolor: #252d80
+
+----
+
+Secondarycolor: #e75114

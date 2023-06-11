@@ -1,0 +1,35 @@
+Title: À quelles conditions le numérique est-il bon pour nous ?
+
+----
+
+Thumbnail-cover: - file://Xvv9TSoTEIBDbPKT
+
+----
+
+Date: 2023-04-21
+
+----
+
+Primarycolor: #252D80
+
+----
+
+Secondarycolor: #ff4114
+
+----
+
+Hat:
+
+Diagnostic du numérique sur le territoire aujourd'hui : on va vers plus de numérique mais on n'est pas sûr qu'il amène une meilleure société ni qu'il réponde à nos principaux enjeux socio-économiques, écologiques, démocratiques, etc.
+
+Face à ce constat, donnons la parole aux personnes concernées / tour d’horizon de la manière dont le numérique est vécu, à la fois par les habitants, à commencer par les plus jeunes, par les aidants et les professionnels de la sphère sociale, qui se retrouvent en première ligne, par les institutions, qui courent un risque en remplaçant des guichets et des agents par des plateformes numériques. 
+
+Et derrière tout cela se pose bien sûr la question des territoires, car le numérique change notre relation à la proximité.
+
+----
+
+Cover: - file://Z4z9iO8HGxmOXP3H
+
+----
+
+Uuid: qTneyS3R1ImGfyTg

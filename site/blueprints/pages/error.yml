@@ -1,0 +1,19 @@
+title: Page d'erreur
+
+
+sections:
+  texts:
+    type: fields
+    fields:
+      heading:
+        type: text
+        label: Texte
+      subheading:
+        type: text
+        label: Texte
+  button:
+    type: fields
+    fields:
+      buttonText:
+        type: text
+        label: Texte du bouton

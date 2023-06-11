@@ -1,0 +1,49 @@
+Title: Ma vie de conseiller numérique
+
+----
+
+Cover: - file://VDyARu52ljpp86wD
+
+----
+
+Hat: Nous retrouvons Romain qui nous avait parlé de son démarrage de Conseiller Numérique en avril. Il vient de passer sa certification et il revient avec nous sur cette étape importante ainsi que sur sa formation !
+
+----
+
+Layout: [{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h3","text":"Bonjour Romain, tu viens de passer ta certification, comment cela s\u2019est-il pass\u00e9 ?"},"id":"ff9eee55-ac60-469a-9e4a-bfe00aad6b5d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Pour moi, \u00e7a s\u2019est plut\u00f4t bien pass\u00e9, c\u2019\u00e9tait enrichissant et constructif. Je l\u2019ai donc pass\u00e9e mi-mai et je suis en attente des r\u00e9sultats !<\/p><p>L\u2019examen final de la certification, c\u2019est un oral avec deux professionnels de\u00a0 la m\u00e9diation num\u00e9rique. Pendant cet oral, on commence par pr\u00e9senter ce que l\u2019on a fait dans nos structures pendant la p\u00e9riode de formation, puis on r\u00e9alise une simulation d\u2019atelier. On doit pr\u00e9parer cinq d\u00e9roul\u00e9s d\u2019ateliers types correspondant \u00e0 chaque support de la\u00a0 m\u00e9diation num\u00e9rique\u00a0**:\u00a0 impression 3D, tablette\/smartphone, PC, robot p\u00e9dagogique, microcontr\u00f4leur .<\/p><p>J\u2019ai eu de la chance, j\u2019ai pu choisir quel atelier je voulais pr\u00e9senter, mais parfois ce sont les professionnels qui le font. On r\u00e9alise alors une simulation d\u2019atelier comme face \u00e0 un r\u00e9el b\u00e9n\u00e9ficiaire.<\/p>"},"id":"2dbb9c63-d0fd-44b0-9cb3-1da764a14e50","isHidden":false,"type":"text"}],"id":"99447c22-1559-4cd4-9f49-9ea9f079c601","width":"1\/1"}],"id":"fec7c535-25be-40ae-9792-c1279b1d8f08"},{"attrs":{"visual":["file:\/\/gr9Dfiyq7Mkvlama"],"visual_color":"#252d804d","visual_width":30,"visual_position":"right-centered"},"columns":[{"blocks":[{"content":{"level":"h3","text":"Est-ce qu\u2019il y a eu des ateliers qui t\u2019ont marqu\u00e9 pendant ta formation ?"},"id":"8b92d58d-b6ca-4501-aa82-0c524ac12666","isHidden":false,"type":"heading"}],"id":"657ec75c-556d-4bcd-9673-2150608535b8","width":"1\/1"}],"id":"63a5419c-d433-4c9a-84a5-119937c3c352"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"text":"<p>Un atelier de mise en situation de m\u00e9diation sociale, sur l\u2019accueil du public. On a r\u00e9alis\u00e9 un jeu de r\u00f4le en bin\u00f4me. En partant d\u2019une situation donn\u00e9e, on devait r\u00e9fl\u00e9chir \u00e0 l\u2019accompagnement \u00e0 proposer. L\u2019un de nous \u00e9tait dans le r\u00f4le du CNFS et l\u2019autre dans celui du b\u00e9n\u00e9ficiaire. Il fallait arriver \u00e0 pr\u00e9senter une situation avec un usager, en l\u2019occurrence une maman avec un enfant qui avait besoin d\u2019accompagnement scolaire. J\u2019avais le r\u00f4le de la b\u00e9n\u00e9ficiaire et c\u2019\u00e9tait une r\u00e9alit\u00e9 que je ne connaissais pas.<\/p><p>Je ne mesurais pas que l\u2019accompagnement social est une grande r\u00e9alit\u00e9 des conseillers num\u00e9riques. Ce n\u2019\u00e9tait pas un volet que j\u2019imaginais aussi fort : cela m\u2019a marqu\u00e9.<\/p><p>Un deuxi\u00e8me atelier m\u2019a marqu\u00e9, sur un volet plus ludique : celui o\u00f9 j\u2019ai d\u00fb apprendre comment fonctionnait une imprimante 3D. Ce sont deux oppos\u00e9s du quotidien d\u2019un conseiller num\u00e9rique mais cela r\u00e9sume bien le panel de comp\u00e9tences.<\/p><p><\/p>"},"id":"bbbcdce6-e73d-4c04-9040-5d6058e580a4","isHidden":false,"type":"text"}],"id":"84a8b71e-de43-4d2d-8241-f60729afa2a7","width":"1\/1"}],"id":"8c98d072-7d5a-4f22-b646-e7a3e7b3c61f"},{"attrs":{"visual":["file:\/\/sg6UCElot9ZJuUNQ"],"visual_color":"#252d8033","visual_width":25,"visual_position":"left-centered"},"columns":[{"blocks":[{"content":{"level":"h3","text":"Est-ce qu\u2019il y a des comp\u00e9tences que tu as acquises et que tu n\u2019aurais pas imagin\u00e9 acqu\u00e9rir ? Ou que tu n\u2019avais pas du tout avant la formation ?"},"id":"a57c861e-25cf-4396-bc28-a2fa51c4f941","isHidden":false,"type":"heading"}],"id":"547d044f-d7b2-45db-bc93-62124da76222","width":"1\/1"}],"id":"0a0ec87c-5c66-413a-a109-01940bf3e0eb"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"text":"<p>Oui, le recueil des besoins : comment r\u00e9pondre aux besoins d\u2019une personne dont on ne conna\u00eet pas la situation ? Comment analyser pour savoir si on est en mesure d\u2019effectuer l\u2019accompagnement ? Et si on n\u2019est pas la structure ad\u00e9quate, savoir vers qui orienter la personne ? En fait, c\u2019est ce que l\u2019on fait au sein des Assembleurs.<\/p>"},"id":"ff1d92d4-c60b-47e8-90c9-d826e3131495","isHidden":false,"type":"text"}],"id":"78b938f6-b518-4fa6-bc2d-f482887435ca","width":"1\/1"}],"id":"97f08b00-010e-4948-bcae-fa33864a562c"},{"attrs":{"visual":["file:\/\/fonElKcjZgM6waXG"],"visual_color":"#e751144d","visual_width":50,"visual_position":"bottom-right"},"columns":[{"blocks":[{"content":{"level":"h3","text":"\u00c0 la sortie de la formation, est-ce qu\u2019il te manque encore quelque chose ? De quoi aurais-tu encore besoin ?"},"id":"fc72c145-3ea1-4528-a418-e71ac5b6e90f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Il me manque clairement l\u2019exp\u00e9rience de terrain, mais pour le moment c\u2019est normal. En revanche, j\u2019aurais appr\u00e9ci\u00e9 plus de retours d\u2019exp\u00e9riences de professionnels. On a eu quelques interventions mais il aurait \u00e9t\u00e9 plus riche d\u2019avoir des retours professionnels sur la r\u00e9alit\u00e9 de plusieurs m\u00e9tiers de la m\u00e9diation num\u00e9rique, dans les FabLab, tiers-lieux, assos et plus g\u00e9n\u00e9ralement de personnes intervenant dans diff\u00e9rents lieux d\u2019accueil ou agissant aupr\u00e8s de publics divers.<\/p>"},"id":"686ede4e-ee9a-4fe9-9fcb-e3e6e1c144fa","isHidden":false,"type":"text"}],"id":"b88601fe-9909-4abf-8c31-0d01508d0e38","width":"1\/1"}],"id":"6b7121fb-3c8a-40ab-9b73-de5e622f6535"}]
+
+----
+
+Date: 2022-10-10
+
+----
+
+Partners: 
+
+----
+
+Tags: Témoignages
+
+----
+
+Visual: - file://fonElKcjZgM6waXG
+
+----
+
+Visual-color: #e97b7b66
+
+----
+
+Visual-width: 33
+
+----
+
+Visual-position: top-left
+
+----
+
+Dictionnary: 
+
+----
+
+Uuid: OpozLkRbjeCFe0Sx

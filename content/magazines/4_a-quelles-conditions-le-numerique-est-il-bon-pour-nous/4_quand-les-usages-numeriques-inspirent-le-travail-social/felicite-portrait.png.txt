@@ -1,0 +1,5 @@
+Uuid: CTYfitXotM1jGAPo
+
+----
+
+Template: blocks/image

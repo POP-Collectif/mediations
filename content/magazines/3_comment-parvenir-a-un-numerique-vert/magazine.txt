@@ -1,0 +1,33 @@
+Title: Comment parvenir à un numérique vert ?
+
+----
+
+Thumbnail-cover: - file://MDaxIKQvnsfNW9dy
+
+----
+
+Date: 2022-12-06
+
+----
+
+Primarycolor: #39a76e
+
+----
+
+Secondarycolor: #8dd8b1
+
+----
+
+Hat: Le numérique irrigue tous les domaines de l’action publique. Comment nos politiques ont-ils tenté d’anticiper ou de maîtriser ce mouvement ?
+
+----
+
+Cover: - file://FiQs49E2mF7R3Lna
+
+----
+
+Highlighted-articles: 
+
+----
+
+Uuid: F0a1S89CMeaIuDcL

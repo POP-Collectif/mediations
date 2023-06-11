@@ -1,0 +1,62 @@
+type: fields
+fields:
+  layout:
+    label: Contenu de la page
+    type: layout
+    layouts:
+      - "1/1"
+      - "1/2, 1/2"
+      - "1/3, 1/3, 1/3"
+    fieldsets:
+      - heading
+      - text
+      - image
+      - video
+    settings:
+      fields:
+        visual_headline:
+          type: headline
+          label: Visuel de fond
+          help: |
+            Image en filigrane affichée autour du bloc.
+        visual:
+          type: files
+          max: 1
+          query: site.images.filterBy("template", "trame")
+          image:
+            back: white
+          layout: cardlets
+          width: 1/2
+          label: Motif
+        visual_color:
+          type: colors
+          alpha: true
+          label: Couleur du motif
+          width: 1/2
+          help: |
+            Baissez l'opacité pour plus de lisibilité.
+        visual_width:
+          type: range
+          label: Largeur du visuel
+          width: 1/1
+          min: 0
+          max: 100
+          step: 1
+          tooltip:
+            after: %
+          help: |
+            Gérez la taille du motif par sa largeur en %, la hauteur s'accomodera pour garder les proportions.
+        visual_position:
+          extends: fields/position
+          help: |
+            Position du motif autour du bloc.
+  # dictionnary:
+  #   label: Variables de page
+  #   type: structure
+  #   fields:
+  #     key:
+  #       label: Clé
+  #       type: text
+  #     value:
+  #       label: Valeur
+  #       type: text

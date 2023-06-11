@@ -1,0 +1,53 @@
+Title: « Le point fort, c’est la bonne connaissance du territoire »
+
+----
+
+Cover: - file://OrVV8mCftkelEnwx
+
+----
+
+Hat: En avril 2022, Douaisis Agglo a fait appel aux Assembleurs pour réaliser un bilan ADN (Accompagnement au Développement Numérique). En quoi cela consiste-t-il ?
+
+----
+
+Layout: [{"attrs":{"visual":["file:\/\/gr9Dfiyq7Mkvlama"],"visual_color":"#ffffff33","visual_width":50,"visual_position":"top-left"},"columns":[{"blocks":[{"content":{"text":"<p><strong>En avril 2022, Douaisis Agglo a fait appel aux Assembleurs pour r\u00e9aliser un bilan ADN (Accompagnement au D\u00e9veloppement Num\u00e9rique). En quoi cela consiste-t-il ? C\u2019est un appui en ing\u00e9nierie qui se r\u00e9alise en trois temps : prise de connaissances des donn\u00e9es, conception d\u2019un atelier rassemblant les acteurs du territoire puis \u00e9laboration d\u2019une synth\u00e8se. Retour avec Marine Goidin, responsable coh\u00e9sion sociale et transition num\u00e9rique chez Douaisis Agglo, sur cet accompagnement.<\/strong><\/p>"},"id":"57f41abd-f546-4f19-b253-678f72e73373","isHidden":false,"type":"text"}],"id":"1af46ab9-6d11-45df-9cdf-f1a19e939b98","width":"1\/1"}],"id":"1b5a71b1-475a-4d7b-a779-2e9abbb172b8"},{"attrs":{"visual":[],"visual_color":"#ffffff40","visual_width":60,"visual_position":"top-left"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Bonjour Marine, pourquoi avoir fait appel aux Assembleurs ?"},"id":"0efbb068-7d79-4831-9f12-6b69dbe0575d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Nous avions besoin d\u2019\u00eatre accompagn\u00e9s sur les sujets de transition num\u00e9rique du territoire. La R\u00e9gion Hauts-de-France nous a orient\u00e9s en 2020 vers les Assembleurs, avec l\u2019objectif d\u2019avoir acc\u00e8s \u00e0 une bo\u00eete \u00e0 outils r\u00e9gionale et \u00e0 une expertise.<\/p><p>L\u2019adh\u00e9sion aux Assembleurs nous a ouvert la possibilit\u00e9 d\u2019un accompagnement ADN, que nous avons souhait\u00e9 cibler sur deux sujets : la formalisation d\u2019un r\u00e9seau des acteurs du num\u00e9rique et de la m\u00e9diation sur le territoire, le partage de l\u2019offre existante , et la co-d\u00e9finition d\u2019une offre de service manquante.<\/p>"},"id":"3490f60b-0da9-4869-bcfa-6aa7c150d522","isHidden":false,"type":"text"}],"id":"314b770a-7229-4c51-939b-38cd205630e2","width":"1\/1"}],"id":"78c77908-82ed-4056-a6e9-1023f10c4599"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Quelles \u00e9taient vos attentes ?"},"id":"f2184b69-3054-40e4-b60f-7b73a95c5b6d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Nous attendions une expertise et une bonne connaissance des dispositifs d\u2019appui existants. Nous voulions que les Assembleurs pr\u00e9sentent aux acteurs du territoire les outils disponibles et posent les bases d\u2019un d\u00e9ploiement de ces outils. Nous avions \u00e9galement besoin d\u2019\u00eatre accompagn\u00e9s pour animer le r\u00e9seau, et les Assembleurs ont cette l\u00e9gitimit\u00e9-l\u00e0.<\/p>"},"id":"cc2c3b0b-0b89-4350-ba03-aa7ae3e73048","isHidden":false,"type":"text"}],"id":"7301c43c-11ba-400d-8c3a-12db2403cf2f","width":"1\/1"}],"id":"40215097-d0d4-474f-ab18-a8fe79ccf8b4"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Qu\u2019avez-vous appr\u00e9ci\u00e9 dans l\u2019accompagnement ADN ?"},"id":"bb67edb1-0ce3-46a8-8f8d-d17c438fe198","isHidden":false,"type":"heading"},{"content":{"text":"<p>Nous avons tout co-construit ensemble. Fran\u00e7ois-Xavier Ricard, charg\u00e9 de mission ing\u00e9nierie territoriale chez les Assembleurs, avait d\u00e9j\u00e0 une connaissance des attentes du territoire gr\u00e2ce aux participations lors des atelier inclusion num\u00e9rique que nous organisions d\u00e9j\u00e0 hors ADN. La bonne connaissance du territoire est un vrai plus. L\u2019animation \u00e9tait \u00e9galement tr\u00e8s int\u00e9ressante, \u00e0 la fois pour les diff\u00e9rentes m\u00e9thodes utilis\u00e9es pour mobiliser les acteurs, mais aussi pour les personae* qui ont donn\u00e9 une vision claire du territoire.<\/p>"},"id":"0f40e2af-3abf-4af0-a047-a8215eb87fc3","isHidden":false,"type":"text"}],"id":"de865302-f2fc-4760-94f7-d8df443c73f2","width":"1\/1"}],"id":"0a6c2287-43c4-4110-aea3-101d7b79b9d8"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Quels ont \u00e9t\u00e9 les retours ?"},"id":"272de63a-e73b-4b63-9505-3818a276ef0d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Au niveau des partenaires, il y a eu de tr\u00e8s bons retours sur l\u2019animation par les Assembleurs. Beaucoup sont m\u00eame rest\u00e9s discuter au-del\u00e0 des ateliers ! Les acteurs attendent maintenant la suite pour savoir ce qui va pouvoir \u00eatre concr\u00e8tement mis en place et traduire ces constats en offre possible et coordonn\u00e9e.<\/p><ul><li><p>Un persona est une personne fictive dot\u00e9e d'attributs et de caract\u00e9ristiques sociales et psychologiques permettant d\u2019identifier des typologies d\u2019acteurs. Nous utilisons des personae pour \u00e9tablir les publics cibles lors de la mise en place d\u2019une strat\u00e9gie d\u2019inclusion num\u00e9rique sur un territoire.<\/p><\/li><\/ul>"},"id":"624f2ef6-790e-4818-8362-5253107f0088","isHidden":false,"type":"text"}],"id":"75473445-dd9a-42d5-9970-7ac277cb1e89","width":"1\/1"}],"id":"cdc8576d-6a2c-415d-a117-0951de9ca501"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Qu\u2019est-ce qu\u2019un accompagnement ADN dynamique collective ?"},"id":"bab50a1e-a0cc-4669-9758-dfaa127a6cee","isHidden":false,"type":"heading"},{"content":{"location":"web","image":[],"src":"https:\/\/res.cloudinary.com\/dgnptaxm4\/image\/upload\/v1665153756\/ADN_dynamique_collective_1_1_6141761f42.png","alt":"","caption":"","link":"","ratio":"16\/9","crop":"false"},"id":"e029872f-0bc6-4a12-b455-b951bc2279d5","isHidden":false,"type":"image"}],"id":"17549a66-16eb-4671-bb4f-b92a7565b6c1","width":"1\/1"}],"id":"528d77d0-e7c1-4588-bd2c-0bc3d422cd10"}]
+
+----
+
+Dictionnary: 
+
+----
+
+Date: 2022-11-28
+
+----
+
+Partners: - file://ErhycVGbju6iC0zE
+
+----
+
+Tags: ADN, Douaisis, Assembleurs
+
+----
+
+Readingtime: 5
+
+----
+
+Visual: - file://gr9Dfiyq7Mkvlama
+
+----
+
+Visual-color: #ffffff33
+
+----
+
+Visual-width: 60
+
+----
+
+Visual-position: top-left
+
+----
+
+Uuid: wjKW2UYp4ggLClFd

@@ -1,0 +1,46 @@
+
+.layout{
+	opacity: 0;
+	transform: translateY(10px);
+	transition: opacity .6s ease, transform .6s ease;
+
+	&.fadeIn{
+		opacity: 1;
+		transform: translateY(0px);
+		transition: opacity .6s ease, transform .6s ease;
+	}
+}
+
+.block-type-text {
+  // max-width: 32rem;
+}
+
+.block-type-heading{
+	max-width: 35rem;
+
+	& h1{ font-size: 3rem;}
+	& h2{ font-size: 2.5rem;}
+	& h3{ font-size: 1.75rem;}
+	& h4{ font-size: 1.5rem;}
+	& h5{ font-size: 1.25rem;}
+}
+//
+// .block-type-video iframe{
+//   --width: 100%;
+//   width: var(--width);
+//   min-height: calc();
+// }
+
+.block-type-video {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.block-type-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

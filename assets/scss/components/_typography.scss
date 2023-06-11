@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+$ff-bst: 'Big Shoulders Text', sans-serif;
+$ff-rbt: 'Roboto', sans-serif;
+// $mono:  'Lekton', monospace;
+
+// $ff1: $sans-serif;
+// $ff2: $serif;
+// $ff3: $mono;
+
+html {
+	font-family: $ff-rbt;
+	font-size: calc(.85em + .3vw);
+	line-height: 1.6;
+	font-weight: 300;
+}
+
+$fs1: 2rem;
+$fs2: 1.6rem;
+$fs3: .6rem;
+
+// --------------------------------------------------
+// # Headings
+// --------------------------------------------------
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .logo, .heading {
+	font-family: $ff-bst;
+	font-weight: bold;
+	color: var(--page-primary-color);
+	// margin: 2rem 0 1rem 0;
+	padding: 0;
+	line-height: 1.1;
+	letter-spacing: 0.05rem;
+	max-width: 42em;
+}
+
+h1, .h1{ font-size: 3rem;}
+h2, .h2{ font-size: 2.5rem;}
+h3, .h3{ font-size: 1.75rem;}
+h4, .h4{ font-size: 1.5rem;}
+h5, .h5{ font-size: 1.25rem;}
+h6, .h6{ font-size: 1.1rem;}
+
+p {
+	padding: 0;
+	margin: 0;
+}
+
+p + p {
+	margin-top: 1.5rem;
+}
+// Roboto (Google Fonts)
+// $roboto: 'Roboto', sans-serif;
+// Big Shoulders Text (Google Fonts)
+// $bigShouldersText: 'Big Shoulders Text', sans-serif;
+
+
+// $body-font: $roboto;
+// $heading-font: $bigShouldersText;
+
+// .content p{
+//   margin-top: 0.5rem;
+//   margin-bottom: 1rem;
+// }
+//
+// .content p:first-of-type {
+//     margin-top: 0;
+// }
+
+.page-title{
+  // font-family: $heading-font;
+  font-weight: 600;
+  font-size: 48px;
+  // line-height: 1.1;
+
+  color: black;
+
+  @media (min-width: 576px){
+    font-size: 3.5em;
+  }
+
+  @media (min-width: 992px){
+    font-size: 64px;
+  }
+}
+
+@media (min-width: 992px){
+  .page-title {
+      font-size: 64px;
+  }
+}

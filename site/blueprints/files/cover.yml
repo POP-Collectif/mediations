@@ -1,0 +1,8 @@
+title: Image de couverture
+
+accept:
+  orientation: landscape
+  mime: image/*
+
+sections:
+  meta: sections/files/meta

@@ -1,0 +1,49 @@
+Title: 3 questions à Monique Argoualc'h concernant son article “quel numérique veut-on ?”
+
+----
+
+Cover: - file://9JZkJlMj0lUgM13k
+
+----
+
+Hat: Sommes-nous capables de définir le numérique que nous voulons ? Ce n'est pas si simple, et pourtant le groupe local d'ATD Quart-Monde à Brest s'y est attelé en 2022 dans le cadre d'un atelier Lirécrire numérique.
+
+----
+
+Layout: [{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"text":"<p>Sommes-nous capables de d\u00e9finir le num\u00e9rique que nous voulons ? Ce n'est pas si simple, et pourtant le groupe local d'ATD Quart-Monde \u00e0 Brest s'y est attel\u00e9 en 2022 dans le cadre d'un atelier Lir\u00e9crire num\u00e9rique. Le r\u00e9sultat est cet article co\u00e9crit et publi\u00e9 en ligne, \"<u><a href=\"http:\/\/www.atd-lirecrire.infini.fr\/Quel-numerique-veut-on\" rel=\"noopener noreferrer\">Quel num\u00e9rique veut-on ?<\/a><\/u>\". Voici ce qu'en disent Monique Argoualc'h, qui a r\u00e9pondu \u00e0 nos questions, et les participants eux-m\u00eames, qui en t\u00e9moignent dans un film sorti mi-mars 2023 - et une chanson.<\/p>"},"id":"195479da-db97-443b-acd9-881fa8cee235","isHidden":false,"type":"text"}],"id":"a65f6793-ff43-44ab-b15c-8ca9a5979261","width":"1\/1"}],"id":"43235a16-1b5a-411a-a6d1-06b6808e7409"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>D'o\u00f9 viennent ces ateliers d'\u00e9criture et qui concernent-ils ?<\/strong>"},"id":"08b69da5-73f9-4fb7-b2d8-4b18c55b8ed6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ils ont vu le jour en 2017 \u00e0 la demande de familles en situation de pr\u00e9carit\u00e9 et d'exclusion, initialement pour aider les parents qui ne comprenaient pas bien les devoirs des enfants, pour mieux les accompagner : leur apprendre \u00e0 utiliser l'ordinateur pour \u00e9crire, c'est un pas de c\u00f4t\u00e9 pour les amener \u00e0 \u00e9crire, \u00e0 surmonter les peurs et les doutes. Publier en ligne et comprendre qu'on est lu, c'est reprendre confiance en soi, c'est aussi parler de ce que l'on veut, m\u00eame de sujets tabous comme la pauvret\u00e9, les difficult\u00e9s financi\u00e8res. Les ateliers ont lieu tous les vendredis, sur 2 heures environ, ils sont ouverts \u00e0 tous, avec une petite dizaine d'habitu\u00e9s.<\/p>"},"id":"a4933f37-548c-43aa-93e9-bf77d93a9bbe","isHidden":false,"type":"text"}],"id":"c9534dc3-d27e-4453-aef7-e9d054070c0d","width":"1\/1"}],"id":"21331e63-f6b2-4d9a-80a5-5f9a21440813"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Comment \u00e7a marche, comment \u00e7a se passe ?<\/strong>"},"id":"85521c25-2934-44f8-b442-0f36475677d7","isHidden":false,"type":"heading"},{"content":{"text":"<p>C'est d'abord un atelier d'expression. Les animateurs proposent un th\u00e8me par mail, quelques jours \u00e0 l'avance, et chacun essaie de penser, de r\u00e9fl\u00e9chir, d'\u00e9crire ou pas ; lors de l'atelier, on discute, on partage des id\u00e9es, des \u00e9crits fusent en 10 ou 15 minutes ; chacun lit \u00e0 haute voix, les autres \u00e9coutent attentivement, on rit aussi, l'ambiance est conviviale. Dans nos ateliers on exp\u00e9rimente un faire-ensemble. Chaque personne vient avec ce qu'elle sait, comme elle est, avec l'envie de partager, d'apprendre ou de faire ensemble, pour mieux vivre ensemble.<\/p>"},"id":"e8a6f9f8-c5fa-4491-a8d2-f757a1373ef1","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file:\/\/HbSwaMZPjrAbTj2t"],"src":"","alt":"Atelier","caption":"","link":"","ratio":"","crop":"false"},"id":"e46582a6-2e80-420f-9f9a-0fbf5ab6d388","isHidden":false,"type":"image"}],"id":"e3e6772e-af79-4088-a898-115169ef8c53","width":"1\/1"}],"id":"10e08277-b0dd-4fdb-b23e-b346df2e8fc5"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Alors des personnes \"\u00e9loign\u00e9es\" peuvent avoir un avis sur le num\u00e9rique ?<\/strong>"},"id":"3a27f71c-b5df-4306-b8a5-3677cb389601","isHidden":false,"type":"heading"},{"content":{"text":"<p>C'est important d'entendre ces personnes et de ne pas penser pour elles. Quand une d\u00e9marche d\u00e9mat\u00e9rialis\u00e9e les met en \u00e9chec, est-ce que le site est mal fait ou est-ce moi qui suis nul.le ? Quand on y travaille ensemble de plus pr\u00e8s, on arrive \u00e0 voir les nombreuses \u00e9tapes d'une d\u00e9marche qui pourrait \u00eatre plus simple, on d\u00e9veloppe un regard critique sur la d\u00e9mat\u00e9rialisation.<\/p><p>Ecrire, publier en ligne, c'est aussi s'emparer du num\u00e9rique, participer donc au d\u00e9veloppement de la culture du num\u00e9rique pour ne pas la subir. C'est ce qu'on voit dans cet atelier o\u00f9 les participants nous parlent de libert\u00e9s, d'acc\u00e8s \u00e0 la connaissance, de confiance, de cybers\u00e9curit\u00e9, de parentalit\u00e9, d'\u00e9cole, de d\u00e9mocratie, d'algorithmes, d'attention, de commerce de proximit\u00e9 et de bien d'autres choses.<\/p><p>Les militants quart-monde ont coproduit des tutoriels utiles \u00e0 leur autonomie num\u00e9rique et administrative. Ils ont pu tester des sites administratifs pour les am\u00e9liorer. Ils ont particip\u00e9 au dossier \"intelligence artificielle\" de la revue Quart-monde n\u00b0 259. Ils se sont frott\u00e9s \u00e0 ChatGPT<u><a href=\"http:\/\/www.atd-lirecrire.infini.fr\/Resister%22R%C3%A9sister\" rel=\"noopener noreferrer\">www.atd-lirecrire.infini.fr\/Resister<\/a><\/u>. La chanson qu'ils ont \u00e9crite nous parle de dignit\u00e9 retrouv\u00e9e, d'espace de libert\u00e9, de croiser les savoirs, d'\u00e9voluer ensemble : ils montent en comp\u00e9tence, se trouvent en capacit\u00e9 d'aider, mais aussi de choisir et d'exprimer leurs choix.<\/p>"},"id":"2eb15605-7960-46e9-864c-e9c395266a38","isHidden":false,"type":"text"}],"id":"6183a371-e961-4f90-8ae6-593fccca10b5","width":"1\/1"}],"id":"57d6f6bf-8d90-4f7d-a82b-0306d5673eac"},{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Pour aller plus loin<\/strong>"},"id":"4f6cf903-1bb0-483b-a2da-efca8f72b086","isHidden":false,"type":"heading"},{"content":{"text":"<p>En janvier 2023, ATD Quart-Monde lan\u00e7ait sur Twitter un <u><a href=\"https:\/\/twitter.com\/ATDQM\/status\/1612762215387463681\" rel=\"noopener noreferrer\">appel \u00e0 t\u00e9moignages<\/a><\/u> concernant des anomalies ou des erreurs de la CAF. Des probl\u00e8mes li\u00e9s \u00e0 la d\u00e9mat\u00e9rialisation ont-ils \u00e9t\u00e9 \u00e9voqu\u00e9s ? ATD devrait publier un retour sur ce sujet courant de l\u2019\u00e9t\u00e9, nous en reparlerons.\u00a0<\/p><p>Pour d\u00e9couvrir plus avant le r\u00e9seau Wr\u00e9sinski \"Num\u00e9rique et grande pauvret\u00e9\", rendez-vous <u><a href=\"https:\/\/www.atd-quartmonde.fr\/nos-actions\/reseaux-wresinski\/reseau-numerique-et-grande-pauvrete\/\" rel=\"noopener noreferrer\">sur cette page d\u2019information<\/a><\/u> ou bien <u><a href=\"https:\/\/www.linkedin.com\/company\/reseau-wresinski-numerique-et-grande-pauvrete\" rel=\"noopener noreferrer\">sur cette page LinkedIn<\/a><\/u>.<\/p>"},"id":"b7adaa10-4c8a-4705-ba0e-12021fd5de64","isHidden":false,"type":"text"}],"id":"9530d6c4-ed06-48d8-b833-d729b453d1ab","width":"1\/1"}],"id":"6ebd1d52-c975-4251-a793-9665b71c82b2"}]
+
+----
+
+Date: 2023-04-27
+
+----
+
+Partners: 
+
+----
+
+Tags: ATD Quart-Monde
+
+----
+
+Readingtime: 1
+
+----
+
+Visual: - file://iaoYvbIhNd94aFBc
+
+----
+
+Visual-color: #ff411433
+
+----
+
+Visual-width: 32
+
+----
+
+Visual-position: top-right
+
+----
+
+Uuid: P9WEZi5KD832ualU

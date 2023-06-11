@@ -1,0 +1,138 @@
+title: Site
+
+tabs:
+  content:
+    columns:
+      - width: 2/3
+        sections:
+          magazines: sections/magazines
+      - width: 1/3
+        sections:
+          pages:
+            type: pages
+            create:
+              - default
+  theme:
+    columns:
+      - width: 1/1
+        sections:
+          favicon:
+            type: fields
+            fields:
+              favicon:
+                type: files
+                width: 1/2
+                min: 1
+                max: 1
+                size: large
+                layout: cardlets
+                image:
+                  back: white
+              hat:
+                type: textarea
+                size: small
+                maxlength: 200
+                label: Texte d'en-tête du site
+                width: 1/2
+          themecolors:
+            type: fields
+            fields:
+              backgroundColor:
+                type: colors
+                width: 1/4
+                label: Couleur de l'arrière plan
+              textColor:
+                type: colors
+                width: 1/4
+                label: Couleur du texte
+              primaryColor:
+                type: colors
+                width: 1/4
+                label: Couleur primaire
+              secondaryColor:
+                type: colors
+                width: 1/4
+                label: Couleur secondaire
+  fichiers:
+    columns:
+      - width: 1/3
+        sections:
+          trames:
+            type: files
+            template: trame
+            layout: cards
+            size: tiny
+            image:
+              ratio: 1/1
+              back: white
+      - width: 2/3
+        sections:
+          others:
+            type: files
+            label: Fichiers du site
+            template: default
+            layout: cardlets
+            image:
+              ratio: 1/1
+              back: white
+          # fonts:
+          #   type: fields
+          #   fields:
+          #     headline_font:
+          #       type: select
+          #       label: Police des en-têtes
+          #       width: 1/2
+          #       options:
+          #     body_font:
+          #       type: select
+          #       label: Police des corps
+          #       width: 1/2
+  # partenaires:
+  #   columns:
+  #     - width: 1/1
+  #       sections:
+  #         partners_section:
+  #           type: fields
+  #           fields:
+  #             partners:
+  #               type: structure
+  #               fields:
+  #                 name:
+  #                   type: text
+  #                   label: Nom du partenaire
+  #                 logo:
+  #                   extends: fields/cover
+  #                   label: Logo
+  #                 website:
+  #                   type: url
+  #                   label: Site web
+  #
+  # menu:
+  #   columns:
+  #     - width: 2/3
+  #       sections:
+  #         theme_colors:
+  #           type: fields
+  #           fields:
+  #             menuBackgroundColor:
+  #               type: colors
+  #               width: 1/2
+  #               label: Couleur de l'arrière plan
+  #             menuTextColor:
+  #               type: colors
+  #               width: 1/2
+  #               label: Couleur du texte
+  #         content:
+  #           type: fields
+  #           fields:
+  #             menuText:
+  #               type: writer
+  #               size: small
+  #
+  #     - width: 1/3
+  #       sections:
+  #         links:
+  #           type: fields
+  #           fields:
+  #             links:
+  #               type: pages

@@ -1,0 +1,14 @@
+type: fields
+fields:
+  author:
+    type: text
+    label: Auteur
+    width: 1/3
+  alt:
+    type: text
+    label: Texte alternatif
+    width: 2/3
+  url:
+    type: url
+    label: Lien hypertexte
+    width: 1/1

@@ -1,0 +1,45 @@
+Title: L’innovation, sociale avant d’être numérique
+
+----
+
+Cover: - file://HXmOr85TSAQeFoSR
+
+----
+
+Hat: Le caractère innovant d’un projet repose d’abord sur une multitude de critères sociaux. Et si l’innovation technologique n’existait pas ?
+
+----
+
+Layout: [{"attrs":{"visual":["file:\/\/x0Eszp6nhmEIe0aI"],"visual_color":"#ffffff33","visual_width":80,"visual_position":"top-right"},"columns":[{"blocks":[{"content":{"text":"<p>Le caract\u00e8re innovant d\u2019un projet, m\u00eame lorsqu\u2019il int\u00e8gre une forte composante technologique, repose d\u2019abord sur une multitude de crit\u00e8res sociaux. D\u00e9monstration via les r\u00e9flexions de l\u2019Institut Jean-Baptiste Godin et l\u2019exemple de <a href=\"https:\/\/www.reconnect.fr\/\" target=\"_blank\" rel=\"noopener noreferrer\">Reconnect<\/a>, service de \u00ab\u00a0cloud solidaire\u00a0\u00bb. Cet article est le premier d\u2019une s\u00e9rie, en janvier, f\u00e9vrier et mars 2018, \u00e0 l\u2019occasion de la sortie en librairie du num\u00e9ro 2 de la revue <a href=\"http:\/\/www.solidarum.org\/rubrique\/visions-solidaires-pour-demain\" target=\"_blank\" rel=\"noopener noreferrer\">Visions solidaires pour demain<\/a>, dont il est issu.<\/p><p><a href=\"https:\/\/www.reconnect.fr\/\" target=\"_blank\" rel=\"noopener noreferrer\">Reconnect<\/a> est un \u00ab\u00a0coffre-fort num\u00e9rique\u00a0\u00bb pour les sans-abri. L\u2019enjeu, plus crucial qu\u2019il n\u2019y para\u00eet, est d\u2019abord de leur permettre de conserver leurs documents d\u2019identit\u00e9 et autres pi\u00e8ces essentielles au chaud dans des serveurs informatiques, accessibles de partout sous forme digitale via les bons identifiants. Plus de papiers \u00e9gar\u00e9s au fil des rues et des campings de fortune. Mais au-del\u00e0 du besoin premier, ce \u00ab\u00a0<a href=\"http:\/\/www.solidarum.org\/inclusion-sociale\/reconnect-cloud-solidaire-pour-sans-abri\" target=\"_blank\" rel=\"noopener noreferrer\">cloud solidaire<\/a>\u00a0\u00bb s\u00e9curise les liens des personnes sans domicile fixe avec les travailleurs sociaux et l\u2019administration.<\/p>"},"id":"507e7d6b-c364-44c4-b55c-dde48c1c6b9f","isHidden":false,"type":"text"}],"id":"57778bb0-2caa-4643-927b-b600dad0777a","width":"1\/1"}],"id":"fd917503-2b99-428a-8a6d-994bb9039c7d"},{"attrs":{"visual":["file:\/\/x0Eszp6nhmEIe0aI"],"visual_color":"#ffffff33","visual_width":80,"visual_position":"top-right"},"columns":[{"blocks":[{"content":{"text":"<p>\u00ab\u00a0Pour les personnes vivant dans la rue, la perte des documents officiels signifie l\u2019arr\u00eat de l\u2019acc\u00e8s \u00e0 leurs droits\u00a0\u00bb<\/p><p>\u00ab\u00a0<em>\u00a0Pour les personnes vivant dans la rue, la perte des documents officiels signifie l\u2019arr\u00eat de l\u2019acc\u00e8s \u00e0 leurs droits. C\u2019est un facteur d\u2019exclusion suppl\u00e9mentaire,<\/em> souligne l\u2019un des deux ing\u00e9nieurs \u00e0 l\u2019origine du projet, Vincent Dallongeville. <em>Par ailleurs, c\u2019est aussi un poids consid\u00e9rable pour les travailleurs sociaux et les accompagnants, qui peuvent consacrer jusqu\u2019\u00e0 30% de leur temps, plus d\u2019un jour par semaine, \u00e0 refaire les papiers perdus<\/em>.\u00a0\u00bb<\/p>"},"id":"7ddb120d-7f04-49ac-b4fa-ee0d2f97b521","isHidden":false,"type":"text"}],"id":"6b55d9f7-0af6-4812-9c0c-51808c12e728","width":"1\/1"}],"id":"271e2b0e-7759-4bee-b63c-dc8362211b60"},{"attrs":{"visual":["file:\/\/x0Eszp6nhmEIe0aI"],"visual_color":"#ffffff33","visual_width":80,"visual_position":"top-right"},"columns":[{"blocks":[{"content":{"text":"<p>On se dit imm\u00e9diatement\u00a0: voil\u00e0 une innovation technologique qui tient \u00e0 la plateforme de stockage et de partage s\u00e9curis\u00e9e, sp\u00e9cialement con\u00e7ue pour faciliter les d\u00e9marches d\u2019accompagnement des personnes en grande pr\u00e9carit\u00e9.<\/p>"},"id":"7d4b781e-2110-44db-9839-6a5a770989b7","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"\u00ab\u00a0L\u2019innovation ne tient pas forc\u00e9ment \u00e0 la nouveaut\u00e9\u00a0\u00bb"},"id":"f0680116-77b6-4f5f-9947-2f66281d2497","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mais peut-on s\u00e9parer l\u2019outil de ses usages, de la motivation et du processus qui les a rendus et les rend aujourd\u2019hui possibles\u202f? Se focaliser sur la plateforme sans envisager son contexte, n\u2019est-ce pas comme regarder le doigt qui montre la lune au lieu de se concentrer sur le satellite lui-m\u00eame, l\u00e0-haut dans le firmament\u202f?<\/p>"},"id":"d9579f2d-c6d2-46ae-816f-a86f332ce32e","isHidden":false,"type":"text"}],"id":"6a81d110-f1e9-4cb0-b119-3a4a937a654a","width":"1\/1"}],"id":"1066f583-3faa-4502-8303-a3e6433379f3"}]
+
+----
+
+Date: 2022-12-06
+
+----
+
+Partners: 
+
+----
+
+Tags: Innovation, Société
+
+----
+
+Readingtime: 3
+
+----
+
+Visual: 
+
+----
+
+Visual-position: 
+
+----
+
+Dictionnary: 
+
+----
+
+Uuid: GbLrGDmYYLzCJWDF

@@ -1,0 +1,12 @@
+type: select
+label: Position de la trame
+width: 1/2
+options:
+  top-left: En haut à gauche
+  top-centered: En haut, centré
+  top-right: En haut à droite
+  right-centered: A droite, centré verticalement
+  bottom-right: En bas à droite
+  bottom-centered: En bas, centré
+  bottom-left: En bas à gauche
+  left-centered: A gauche, centré verticalement

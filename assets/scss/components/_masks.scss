@@ -1,0 +1,36 @@
+.mask {
+  -webkit-mask-image: url(../masks/blob.svg);
+  mask-image: url(../masks/blob.svg);
+
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+
+  -webkit-mask-position: center;
+  mask-position: center;
+}
+
+.mask-cover{
+  -webkit-mask-size: cover;
+  mask-size: cover;
+}
+.mask-contain{
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+
+.mask-image-blob-1{
+  -webkit-mask-image: url(../masks/blob-1.svg);
+  mask-image: url(../masks/blob-1.svg);
+}
+.mask-image-blob-2{
+  -webkit-mask-image: url(../masks/blob-2.svg);
+  mask-image: url(../masks/blob-2.svg);
+}
+.mask-image-blob-3{
+  -webkit-mask-image: url(../masks/blob-3.svg);
+  mask-image: url(../masks/blob-3.svg);
+}
+.mask-image-blob-4{
+  -webkit-mask-image: url(../masks/blob-4.svg);
+  mask-image: url(../masks/blob-4.svg);
+}

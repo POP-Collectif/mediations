@@ -1,0 +1,8 @@
+title: Vignette de la page d'accueil
+
+accept:
+  orientation: portrait
+  mime: image/*
+
+sections:
+  meta: sections/files/meta

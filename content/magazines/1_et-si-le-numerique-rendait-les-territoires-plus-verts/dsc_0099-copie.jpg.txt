@@ -1,0 +1,5 @@
+Uuid: sKSyETWina7ObREq
+
+----
+
+Template: image

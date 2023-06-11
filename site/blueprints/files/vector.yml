@@ -1,0 +1,7 @@
+title: Vectoriel (SVG)
+
+accept:
+  mime: image/svg+xml
+
+sections:
+  meta: sections/files/meta

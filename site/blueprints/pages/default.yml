@@ -1,0 +1,35 @@
+title: Page simple
+
+status:
+  drafts: Brouillon
+  unlisted: En revue
+    text: Cette page n'apparait dans pas dans les menus, mais est accessible par son URL
+  listed: Publié
+    text: Cette page apparait dans les menus
+
+
+# Define the form layout with two columns
+# Columns are optional but help structure the form layout
+# The first column defines an files section, the second a set of fields
+# More about different types of sections: https://getkirby.com/docs/reference/panel/sections
+# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+
+columns:
+  - width: 1/1
+    sections:
+      ff:
+        type: fields
+        fields:
+          cover:
+            extends: fields/cover
+            layout: cards
+            size: huge
+            image:
+              cover: true
+              ratio: 12/5
+            label: Image de couverture
+            width: 1/1
+  - width: 1/1
+    sections:
+      layout:
+        extends: sections/layout

@@ -1,0 +1,33 @@
+Title: Magazines
+
+options:
+  changeStatus: false
+  delete: false
+
+columns:
+  listed:
+    width: 1/2
+    sections:
+      listed:
+        label: Publiés
+        extends: sections/magazines
+        status: listed
+        size: small
+        empty: Aucun magazine publié
+  drafts:
+    width: 1/2
+    sections:
+      drafts:
+        extends: sections/magazines
+        label: Brouillons
+        status: drafts
+        size: tiny
+        layout: list
+        empty: Aucun brouillon
+      unlisted:
+        extends: sections/magazines
+        label: En revue
+        status: unlisted
+        size: tiny
+        layout: list
+        empty: Aucun magazine en revue

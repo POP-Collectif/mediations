@@ -1,0 +1,49 @@
+Title: Chut! : Parler des pratiques numériques des ados au lieu d'angoisser
+
+----
+
+Cover: - file://vX2j2zOZTw2xBaKi
+
+----
+
+Hat: Un média papier sur numérique et jeunes en 2023 ? Cela peut paraître étonnant, c’est pourtant le parti-pris de Chut! Explore, nouveau magazine dédié aux ados.
+
+----
+
+Layout: [{"attrs":{"visual":[],"visual_color":null,"visual_width":null,"visual_position":""},"columns":[{"blocks":[{"content":{"text":"<p><em>Un m\u00e9dia papier sur num\u00e9rique et jeunes en 2023 ? Cela peut para\u00eetre \u00e9tonnant, c\u2019est pourtant le parti-pris de Chut! Explore, nouveau magazine d\u00e9di\u00e9 aux ados. On en discute avec Sophie Comte, co-fondatrice de ce m\u00e9dia.<\/em><\/p>"},"id":"cf9b77df-513e-4456-bceb-463ac08f3523","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file:\/\/sxWCo3iBzxOmfSWk"],"src":"","alt":"Portrait de Sophie Comte","caption":"Sophie Comte, co-fondatrice de Chut! Magazine","link":"","ratio":"","crop":"false"},"id":"0bf78ba2-2944-4e28-98de-90e02b03fc3e","isHidden":false,"type":"image"},{"content":{"text":"<p>Tout part d\u2019une intuition personnelle : les \u00e9quipes de Chut! Magazine, trimestriel d\u00e9di\u00e9 au num\u00e9rique lanc\u00e9 en 2020, ont des enfants qui grandissent et sentent qu\u2019<strong>il se passe quelque chose sur le num\u00e9rique avec les jeunes<\/strong>. <strong>63% des moins de 13 ans sont sur un r\u00e9seau social<\/strong>, et les enfants qui arrivent en 6\u00e8me ressentent une <strong>forte pression sociale \u00e0 avoir un t\u00e9l\u00e9phone portable<\/strong>. Dans ce contexte bien connu, de nombreux parents sont inquiets : de la mont\u00e9e en puissance d\u2019Internet et des r\u00e9seaux sociaux, de la difficult\u00e9 \u00e0 s\u2019adresser \u00e0 leurs enfants sur ces sujets, des risques divers et vari\u00e9s des \u00e9crans.<\/p>"},"id":"0207473b-19c2-43ef-958c-b88c36fe9a94","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>Sortir de l\u2019opposition entre monde r\u00e9el et virtuel\u00a0<\/strong>"},"id":"bc354e32-713d-419b-91bc-2e0d57155ab0","isHidden":false,"type":"heading"}],"id":"a1cd618a-5eed-4d18-aa5b-bd91aa3625ed","width":"1\/1"}],"id":"f88fa04d-2c5e-49ed-a1cd-36808a71c1be"},{"attrs":{"visual":["file:\/\/OZdeLpFgICdo4v60"],"visual_color":"#ff411433","visual_width":50,"visual_position":"top-right"},"columns":[{"blocks":[{"content":{"text":"<p>L\u2019\u00e9cran, qui \u00e9tymologiquement signifie \u201cbarri\u00e8re\u201d, concentre les angoisses<em> : <\/em>\u201c<em>l\u2019\u00e9cran symbolise la s\u00e9paration entre le monde r\u00e9el et le monde virtuel, comme si les jeunes partaient vers un autre monde et que la fronti\u00e8re \u00e9tait herm\u00e9tique. Or, il y a une <\/em><strong><em>vraie continuit\u00e9 entre ces deux monde<\/em><\/strong><em>s. Cette vision manich\u00e9enne du monde r\u00e9el et du monde virtuel que l\u2019on oppose nous am\u00e8ne \u00e0 sous-estimer ce qui se passe en ligne<\/em>\u201d, souligne Sophie Comte.\u00a0\u00a0<\/p><p>En effet, il n\u2019y a pas que la notion de risque dans le num\u00e9rique : les jeunes, tout comme les adultes finalement, peuvent d\u00e9couvrir de nombreux\u00a0 contenus passionnants sur les r\u00e9seaux sociaux, et <strong>les pratiques num\u00e9riques diff\u00e8rent fortement d\u2019un jeune \u00e0 un autre<\/strong>. \u201c<em>Il faut sortir du clich\u00e9 de l\u2019ado \u00e9cervel\u00e9, qui scrolle sur TikTok en regardant des vid\u00e9os abrutissantes.<\/em>\u201d Sophie Comte \u00e9voque la notion d\u2019encapacitation : l\u2019objectif de Chut! Explore est d\u2019amener de la connaissance et de l\u2019information pour <strong>aider les jeunes \u00e0 devenir \u201ccapables\u201d avec le num\u00e9rique<\/strong>, \u00e0 renouveler leur mani\u00e8re de penser et d\u2019agir au quotidien. Comment ? En recr\u00e9ant du lien, en questionnant les pratiques, en renouant le dialogue. Et pour cela, le format papier est id\u00e9al : c\u2019est un support que l\u2019on peut partager, regarder entre copains, avec sa famille. C\u2019est aussi se donner la possibilit\u00e9 d\u2019une autre temporalit\u00e9, <strong>prendre le temps, en r\u00e9ponse \u00e0 l\u2019injonction au flux constant<\/strong> et \u00e0 l\u2019imm\u00e9diatet\u00e9.\u00a0<\/p><p>\u201c<em>On a failli l\u2019appeler le magazine de la culture num\u00e9rique pour les familles<\/em>, explique Sophie Comte. <em>Car <\/em><strong><em>tout le monde a besoin de culture num\u00e9rique<\/em><\/strong><em>. Il devrait y avoir des cours d\u2019\u00e9ducation civique et num\u00e9rique dans tous les coll\u00e8ges : aujourd\u2019hui, il y a des cours de code en 5\u00e8me, mais pas de socle de connaissances partag\u00e9es autour du num\u00e9rique et des technologies, et surtout de la fa\u00e7on dont cela transforme notre soci\u00e9t\u00e9. Il faut sortir du prisme uniquement geek ou technique, et aller vers une vraie mont\u00e9e en comp\u00e9tences. <\/em><strong><em>Le num\u00e9rique touche toutes les activit\u00e9s humaines aujourd\u2019hui<\/em><\/strong>.\u201d<\/p>"},"id":"85ca7d81-62eb-4f09-94df-1b97a14ae3e0","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>Culture num\u00e9rique : sortir des marges\u00a0<\/strong>"},"id":"169896e2-cde3-45dd-b83f-6782900ba204","isHidden":false,"type":"heading"},{"content":{"text":"<p>En ce sens, Chut! Explore se veut aussi une <strong>r\u00e9ponse aux besoins scolaires<\/strong>\u00a0 : \u201c<em>Chut! Magazine est d\u00e9j\u00e0 distribu\u00e9 dans les lyc\u00e9es des CDI. Les professeurs documentalistes dans les coll\u00e8ges nous l'ont demand\u00e9, mais ce format est trop pointu pour ce public. En revanche, ils nous ont fait savoir qu'ils avaient besoin de supports p\u00e9dagogiques sur le num\u00e9rique \u00e0 destination des coll\u00e9giens, c\u2019\u00e9tait presque une demande d\u2019avoir un support p\u00e9dagogique sur ces sujets<\/em>.\u201d L\u2019objectif est vraiment que toutes les mati\u00e8res s\u2019emparent du sujet du num\u00e9rique. Ainsi, dans chaque num\u00e9ro de Chut! Explore, un texte de fiction sera publi\u00e9 dans le cadre d\u2019un concours de nouvelles : amener le num\u00e9rique en cours de fran\u00e7ais c\u2019est possible !<\/p><p><strong>Ce qui montrerait la r\u00e9ussite du magazine ? \u201c<em>Que demain la culture num\u00e9rique soit pr\u00e9sente dans toutes les mati\u00e8res !<\/em>\u201d<\/strong><\/p>"},"id":"dd10bfa8-cdca-4de3-ba49-a2d8366dc5f3","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>Chut! Explore, concr\u00e8tement, ce sera quoi ?\u00a0<\/strong>"},"id":"62ad23e4-dfb0-4d98-b9ac-b1c80bec58fc","isHidden":false,"type":"heading"},{"content":{"text":"<p>Un magazine tr\u00e8s court et graphique, qui donne envie de d\u00e9couvrir les sujets.\u00a0<\/p><ul><li><p>Rubrique <strong>\u201cD\u00e9code\u201d<\/strong> : un article de fond, \u00e0 la une du magazine.<\/p><\/li><li><p>Rubrique <strong>\u201cen mode selfie\u201d<\/strong> : on y parlera par exemple de Body positive dans le premier num\u00e9ro<\/p><\/li><li><p>Un <strong>volet ludique<\/strong> avec des quiz, des anecdotes\u2026\u00a0<\/p><\/li><li><p>Une <strong>BD<\/strong><\/p><\/li><li><p>Un <strong>texte de fiction<\/strong>, gagnant du concours de nouvelles<\/p><\/li><li><p>Une <strong>illustration<\/strong> sous la forme d\u2019un poster\u00a0<\/p><\/li><li><p>Des <strong>fiches m\u00e9tiers<\/strong>, avec une attention particuli\u00e8re au choix des r\u00f4les mod\u00e8les : des jeunes adultes dans le monde du travail, des profils sur lesquels les jeunes pourront se projeter.\u00a0<\/p><\/li><\/ul>"},"id":"498928d5-7348-49e9-abe0-1c7f448289f7","isHidden":false,"type":"text"}],"id":"5e5d24a5-0b6d-4df9-b875-05bab1711ddb","width":"1\/1"}],"id":"33a163b7-adda-4ba3-813a-c92756d4b296"}]
+
+----
+
+Date: 2023-04-27
+
+----
+
+Partners: 
+
+----
+
+Tags: ados, jeunes, numériqueéducatif
+
+----
+
+Readingtime: 5
+
+----
+
+Visual: - file://x0Eszp6nhmEIe0aI
+
+----
+
+Visual-color: #ff411433
+
+----
+
+Visual-width: 33
+
+----
+
+Visual-position: top-left
+
+----
+
+Uuid: BuoB8mP21m3ZviNr

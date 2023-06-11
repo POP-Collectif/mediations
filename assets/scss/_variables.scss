@@ -1,0 +1,22 @@
+$rem-base: 16px;
+
+$sp1: 10%; // Spacing 1
+$sp2: 40px; // Spacing 2
+
+$offcanvasMenu: 256px;
+
+$scrollbar-size: 5px;
+$scrollbar-color: #{var(--primary-color)};
+
+
+// Small tablets and large smartphones (landscape view)
+$screen-sm-min: 576px;
+
+// Small tablets (portrait view)
+$screen-md-min: 768px;
+
+// Tablets and small desktops
+$screen-lg-min: 992px;
+
+// Large tablets and desktops
+$screen-xl-min: 1200px;

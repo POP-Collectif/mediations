@@ -1,0 +1,248 @@
+:root{
+  --gutter: 2.5rem;
+}
+
+
+.footer {
+  padding: 0rem 0 1rem 0;
+  line-height: 1.5em;
+  margin-top: -6em;
+  background: none;
+}
+
+
+
+.article-thumbnail-title{
+  font-size: 2rem;
+  color: var(--page-primary-color);
+  margin: 0;
+
+  & span{
+    margin-top: -200px;        /* Size of fixed header */
+    padding-bottom: 200px;
+    display: block;
+  }
+
+  @include md{
+      font-size: 2.5rem;
+  }
+
+  @include lg{
+    font-size: 3rem;
+  }
+}
+
+.article-thumbnail-headline{
+  display: none;
+  // font-size: 16px;
+  // margin-bottom: 1rem;
+
+
+  @include lg{
+    display: block;
+  }
+}
+
+
+/******************************************************************************/
+/*** SUMMARY PROGRESS
+/******************************************************************************/
+
+.summary-progress{
+  position: fixed;
+  bottom: 5rem;
+  left: 2rem;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  mix-blend-mode: multiply;
+  display: none;
+  z-index: 15;
+
+  &.display{
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+  }
+
+  & > div{
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+    margin: 0;
+    padding: 0;
+  }
+
+  & .label{
+    transform: rotate(-90deg) translate(0px, 0.25rem);
+    transform-origin: center left;
+    font-weight: 600;
+    color: var(--primary-color);
+  }
+
+  & .item{
+    --size: 15px;
+    width: var(--size);
+    height: var(--size);
+    border-radius: calc(var(--size) / 2);
+
+    background-color: white;
+    border: 2px solid var(--primary-color);
+
+    cursor: pointer;
+    position: relative;
+
+    &.active{
+      background-color: var(--primary-color);
+      border: 0px solid var(--primary-color);
+
+      transition: all .5s ease;
+    }
+  }
+
+  & .item a{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: block;
+  }
+
+  @include md{
+    display: block;
+  }
+
+}
+
+
+/******************************************************************************/
+/*** SOMMAIRE
+/******************************************************************************/
+
+.summary-article svg.link {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  transform: translateY(50%);
+
+  z-index: -1;
+
+  & path{
+    stroke: var(--page-secondary-color);
+    stroke-width: 10px;
+    fill: none;
+  }
+}
+
+/* Ne pas faire apparatre le dernier lien. */
+.summary-article:last-of-type svg.link { display: none; }
+
+.summary-container{
+    display: flex;
+
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    background: none!important;
+
+    margin-top: var(--page-header-margin-bottom);
+
+
+    @extend .mx-auto;
+
+    align-items: center;
+    justify-content: center;
+
+
+    @include xl{
+      max-width: calc(100% - 2 * var(--page-section-padding-x));
+      gap: var(--gutter);
+    }
+  }
+
+
+.summary-article{
+  align-items: center;
+
+  position: relative;
+
+  pointer-events: all;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+
+  & a.button span{
+    display: none;
+    letter-spacing: 0.05rem;
+
+    @include md{
+      display: inline-flex;
+    }
+
+  }
+
+  & .article-thumbnail-infos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: flex-start;
+
+    & .logos{
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      width: 100%;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      & span{ grid-column: span 2; }
+      & img{
+        object-fit: contain;
+        max-height: 1.25rem;
+        flex: 0;
+        line-height: 1;
+      }
+    }
+  }
+
+  & .summary-article-image-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  @include xl{ gap: 4rem; }
+
+
+  &:nth-child(even){
+    flex-direction: row-reverse;
+
+    & .summary-article-info-col{ grid-column: 2; grid-row: 1; align-items: flex-start;}
+    & .summary-article-image-col{ grid-column: 1; grid-row: 1; }
+  }
+
+  &:nth-child(odd){
+
+    & .article-thumbnail-infos{ text-align: end; justify-content: flex-end; align-items: flex-end;}
+    & .logos{ justify-content: flex-end;}
+
+    & .text{ margin-left: auto; word-break: break-word;}
+  }
+}
+
+@include sm{
+  .summary-article-image-col, .summary-article svg.link{ height: 350px; }
+}
+
+@include md{
+  .summary-article-image-col, .summary-article svg.link{ height: 500px; }
+}
+
+@include lg{
+  .summary-article-image-col, .summary-article svg.link{ height: 600px; }
+}
+
+@include xl{
+  .summary-article-image-col, .summary-article svg.link{ height: 100%; }
+}
